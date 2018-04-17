@@ -14,3 +14,4 @@ Nothing fancy here!
 - Global variable in header
 - Basic function pointer
 - **Generic Linked List in C** (kinda ~~fancy~~ useful)
+- Operand precedence (function call in C)
